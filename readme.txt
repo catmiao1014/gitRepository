@@ -5,3 +5,4 @@ add testOne
 add testTwo
 add testThree
 create a new branch is quick
+creating a new branch is quick AND simple.
